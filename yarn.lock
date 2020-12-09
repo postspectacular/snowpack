@@ -4325,6 +4325,9 @@ brorand@^1.0.1:
 "browser-no-valid@file:./test/esinstall/package-entrypoints/browser-no-valid":
   version "1.2.3"
 
+"browser-path@file:./test/esinstall/package-entrypoints/browser-path":
+  version "1.2.3"
+
 browser-process-hrtime@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/browser-process-hrtime/-/browser-process-hrtime-1.0.0.tgz#3c9b4b7d782c8121e56f10106d84c0d0ffc94626"
@@ -10799,12 +10802,6 @@ p-waterfall@^1.0.0:
 
 "package-02@file:./test/esinstall/include/packages/package-02":
   version "1.0.0"
-
-"package-has-valid@file:./test/esinstall/dep-browser-entrypoint-object/package-has-valid":
-  version "1.2.3"
-
-"package-no-valid@file:./test/esinstall/dep-browser-entrypoint-object/package-no-valid":
-  version "1.2.3"
 
 pako@~1.0.5:
   version "1.0.11"

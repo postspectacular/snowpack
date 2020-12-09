@@ -17,7 +17,8 @@
     "browser-index": "file:./browser-index",
     "browser-index-js": "file:./browser-index-js",
     "browser-no-valid": "file:./browser-no-valid",
-    "esinstall": "^0.4.0"
+    "pkg-with-dot.in-the-name": "file:./pkg-with-dot.in-the-name",
+    "preact": "^10.4.6"
   },
   "devDependencies": {
     "esinstall": "^0.4.0"

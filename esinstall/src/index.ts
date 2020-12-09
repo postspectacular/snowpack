@@ -175,6 +175,8 @@ function resolveWebDependency(
       foundEntrypoint[dep] ||
       foundEntrypoint['./index.js'] ||
       foundEntrypoint['./index'] ||
+      foundEntrypoint['index.js'] ||
+      foundEntrypoint['index'] ||
       foundEntrypoint['./'] ||
       foundEntrypoint['.'];
   }
